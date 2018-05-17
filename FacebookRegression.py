@@ -1,4 +1,3 @@
-## Nazanin
 ## Importing Classes 
 
 import numpy as np
